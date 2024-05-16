@@ -1,7 +1,7 @@
 import cv2
 import face_recognition
 
-image_paths = ['sample1.jpg','sample1.jpeg','sample2.jpeg','sample3.jpg','sample4.jpg']
+image_paths = ['./Assets/sample1.jpg','./Assets/sample1.jpeg','./Assets/sample2.jpeg','./Assets/sample3.jpg','./Assets/sample4.jpg']
 
 for image_path in image_paths:
     image = cv2.imread(image_path)
