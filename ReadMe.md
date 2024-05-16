@@ -19,7 +19,7 @@ Here are the steps:
 3. On the next page, click on the "Community" edition, which is free for students, open-source contributors, and individuals.
 4. During the installation process, make sure to select the "Desktop Development with C++" workload.
 
-After the installation of the face_recognition module, you'll need to execute the following command in your terminal.
+After installing Visual Studio, proceed by executing the following command in your terminal to install the necessary dependencies.
 
 ```bash
 pip install -r requirements.txt
