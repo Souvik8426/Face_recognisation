@@ -1,6 +1,6 @@
 # Facial Features Detection
 
-"This project utilizes OpenCV and face_recognition libraries for real-time detection of faces, eyes, noses, and mouths from a live video stream. It's versatile, suitable for security, surveillance, or interactive games. There are two versions: one provides real-time face labeling from a webcam feed (requires a working webcam or else error will be thrown), while the other processes images from the asset folder. To use your own images, place them in the asset folder and rename accordingly."
+This project utilizes OpenCV and face_recognition libraries for real-time detection of faces, eyes, noses, and mouths from a live video stream. It's versatile, suitable for security, surveillance, or interactive games. There are two versions: one provides real-time face labeling from a webcam feed (requires a working webcam or else error will be thrown), while the other processes images from the asset folder. To use your own images, place them in the asset folder and rename accordingly.
 
 ## Prerequisites
 
